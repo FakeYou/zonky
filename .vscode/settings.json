@@ -1,0 +1,13 @@
+{
+	"eslint.enable": true,
+	"prettier.eslintIntegration": true,
+	"[javascript]": {
+		"editor.formatOnSave": true,
+	},
+	"[typescript]": {
+		"editor.formatOnSave": true,
+	},
+	"[typescriptreact]": {
+		"editor.formatOnSave": true,
+	}
+}
